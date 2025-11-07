@@ -1,0 +1,3 @@
+platformId,accountNumber,securityId,tradeType,quantity,price,timestamp
+T1,ACCT-123456789,ABC123,Buy,100,10.5,2025-11-01T12:00:00Z
+T2,ACCT-987654321,XYZ987,Sell,50,20.0,2025-11-02T13:00:00Z
